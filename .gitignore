@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# npm-debug.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jest cache
+.jest_cache/
+
+# Vite build output
+build/

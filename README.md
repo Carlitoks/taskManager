@@ -72,7 +72,7 @@ task-manager-fullstack/
     En el directorio `backend/`, crea un archivo llamado `.env` y añade la URL de conexión de tu base de datos y la clave secreta de JWT. Reemplaza los valores de marcador de posición con tu URL de base de datos real y una clave secreta fuerte.
 
     ```env
-    DATABASE_URL="postgresql://neondb_owner:npg_AZ4f1vtrgiwc@ep-noisy-mountain-aeo6wj5h-pooler.c-2.us-east-2.aws.neon.tech/real_state_management?sslmode=require&channel_binding=require"
+    DATABASE_URL="your_postgresql_connection_string_here"
     JWT_SECRET="your_super_secret_jwt_key_here"
     ```
 
